@@ -170,7 +170,7 @@ def update_data(conn, df, changes):
 '''
 # :shopping_bags: ポケモンスリープの何かを効率よく計算する
 
-**Welcome to Alice's Corner Store's intentory tracker!**
+**阿久津とポケモンスリープの何かを作る!**
 This page reads and writes directly from/to our inventory database.
 '''
 
